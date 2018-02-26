@@ -1,5 +1,5 @@
 # OpenPLC-Neo
-![alt text](https://s3.amazonaws.com/files.websitetoolbox.com/203128/3537919)
+![alt text](https://d28lcup14p4e72.cloudfront.net/203128/3537919/Iteration%202.PNG)
 
 A cheap, reliable, expandable and, of course, open source device that works with OpenPLC software
 
