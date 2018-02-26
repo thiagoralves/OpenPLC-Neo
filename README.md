@@ -1,5 +1,5 @@
 # OpenPLC-Neo
-![alt text](https://d28lcup14p4e72.cloudfront.net/203128/3537919/Iteration%202.PNG)
+![alt text](https://raw.githubusercontent.com/thiagoralves/OpenPLC-Neo/master/Digital_Input_Card/Iteration%202.PNG)
 
 A cheap, reliable, expandable and, of course, open source device that works with OpenPLC software
 
